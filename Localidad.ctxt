@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Localidad
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Localidad\r\n\ @param\:\ p_nombre\:\ Nombre\ de\ la\ localidad\r\n\ @param\:\ p_provincia\:\ Provincia\ en\ la\ cual\ se\ encuentra\ la\ localidad\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ @param\:p_nombre\:\ Nombre\ de\ la\ localidad\r\n
+comment3.params=p_provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment3.text=\r\n\ \ \ \ \ @param_\ p_provincia\:\ Nombre\ de\ la\ provincia\ a\ la\ cual\ eprtenece\ la\ localidad\r\n\r\n
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=\r\n\ @return\:\ Devuelve\ le\ nombre\ de\ l\ alocalidad\r\n
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment5.text=\r\n\ @return\:\ devuelve\ la\ provinci\ a\ la\ cual\ pertenece\ la\ localidad\r\n
+comment6.params=
+comment6.target=void\ Mostrar()
+comment6.text=\r\n\ Dicho\ metodo\ devuelve\ le\ nombre\ de\ la\ localidad\ junto\ ocn\ la\ Provincia\r\n\ a\ la\ cual\ pertenece\r\n
+numComments=7

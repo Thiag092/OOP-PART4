@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TomaPedido
+comment0.text=\r\n\ Clase\ ejecutable\ la\ cual\ se\ encarga\ de\ agregar\ los\ datos\ tendientes\ al\ la\ lsita\ del\ pedido,\ los\ prducstos\r\n\ que\ lo\ integran,\ para\ su\ psoteriro\ manejo\ y\ publicacion\ para\ despacharse\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

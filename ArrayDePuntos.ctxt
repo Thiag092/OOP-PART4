@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ArrayDePuntos
+comment0.text=\r\n\ Dicha\ clase\ se\ encarga\ del\ manejo\ de\ una\ colecion\ estatica\ de\ objetosde\ tipo\ Punto\r\n\ \r\n\ @author\ (Yago\ Ayala)\ \r\n\ @version\ (1.0\ -\ 20/09\u00E7/2023)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

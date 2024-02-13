@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AplicacionBanco
+comment0.text=\r\n\ Clase\ ejcutable\ de\ la\ entidad\ bancaria,\ la\ cual\ se\ encarga\ de\ incluir\ nuevos\ lcientes,\ cuentas\ para\ despues\r\n\ publicar\ dicha\ informacio\ y\ realizar\ diversos\ manejos\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
